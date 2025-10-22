@@ -1,0 +1,8 @@
+- Что изучить:
+- [ ] Poetry
+- [ ] Argparse
+- [ ] CPython
+- [ ] Code2Flow
+- [ ] Sentry
+- [ ] Уровни Тестирования
+- [ ] Loging
