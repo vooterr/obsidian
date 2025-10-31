@@ -40,9 +40,10 @@
 - Были удалены все коррелированные данные
 - После чего пошло изучение гистограмм по ключевым фичам
 - Ключевые фичи для определения
-	- FWD IAT MAX (Normal and Ddos)
-	- Avg Bwd Segment Size (Normal and Ddos/Dos)
-	- Flow Duration (Normal and Dos)
-	- Avarage Packett Size(Normal and Dos/Ddos)
-	- FWD IAT Mean (normal and Dos)
-	- FLow IAT Std (Normal and Dos)
+- **Fwd IAT Max** — Normal vs DoS/DDoS
+- **Fwd IAT Mean** — Normal vs DoS/DDoS
+- **Flow IAT Std** — Normal vs DoS/DDoS
+- **Average Packet Size** _(или Packet Length Mean + Std, но не дублируй)_ — Normal vs DoS/DDoS
+- **Avg Bwd Segment Size** — Normal vs DoS/DDoS
+- **Flow Duration** — Normal vs DoS _(и часть PortScan)_
+- **+ рекомендую добавить:** `Flow Packets/s`, `Fwd Packets/s`, `Bwd Packets/s`/`Total Bwd Packets`, `Down/Up Ratio`, `Bwd Header Length` — они «закроют» PortScan.
