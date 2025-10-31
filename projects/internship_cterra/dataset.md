@@ -41,4 +41,8 @@
 - После чего пошло изучение гистограмм по ключевым фичам
 - Ключевые фичи для определения
 	- FWD IAT MAX (Normal and Ddos)
-	- 
+	- Avg Bwd Segment Size (Normal and Ddos/Dos)
+	- Flow Duration (Normal and Dos)
+	- Avarage Packett Size(Normal and Dos/Ddos)
+	- FWD IAT Mean (normal and Dos)
+	- FLow IAT Std (Normal and Dos)
