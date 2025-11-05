@@ -12,6 +12,10 @@
 	- It is *getting, becoming, starting, begining changing, improving, increasing, rising, falling, growing*
 	- Your English is getting better? 
 # Present simple
+## Форма
+- *Noun + verb*
+- 
+## Когда используется
 - Когда озвучиваем факты ( о природе или о человеке ), 
 	- Вода кипятится при 100 градусах
 	- Ему 15 лет
