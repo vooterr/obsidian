@@ -1,7 +1,7 @@
 - Что изучить:
-- [ ] Poetry
-- [ ] Argparse
-- [ ] CPython
+- [x] Poetry
+- [x] Argparse
+- [x] CPython
 - [ ] Code2Flow
 - [ ] Sentry
 - [ ] Уровни Тестирования
