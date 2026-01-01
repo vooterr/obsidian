@@ -11,4 +11,4 @@
 - Qwen 2.5 VL
 - PaLI-Gemma
 - LLaMA 3.2-vision
-VQA
+VQAasdf
