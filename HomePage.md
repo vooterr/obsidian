@@ -1,0 +1,23 @@
+#HOME #HomePage #H
+
+---
+# TODO
+```dataview
+TABLE status, deadline, priority
+FROM ""
+WHERE status = "TODO"
+SORT deadline ASC,
+  choice(priority = "high", 1, 
+         choice(priority = "middle", 2, 
+                choice(priority = "low", 3, 99))) ASC
+```
+# In-progress
+```dataview
+TABLE status, date, deadline, priority
+FROM ""
+WHERE status = "in-progress"
+SORT deadline ASC,
+  choice(priority = "high", 1, 
+         choice(priority = "middle", 2, 
+                choice(priority = "low", 3, 99))) ASC
+```

@@ -1,0 +1,6 @@
+---
+status: 
+date: 
+priority: 
+deadline: 
+---
