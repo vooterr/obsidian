@@ -1,4 +1,4 @@
-#HOME #HomePage #H
+#HOME #HomePage #H 
 
 ---
 # TODO
@@ -21,3 +21,13 @@ SORT deadline ASC,
          choice(priority = "middle", 2, 
                 choice(priority = "low", 3, 99))) ASC
 ```
+
+# Задачи
+```dataview
+TASK
+FROM ""
+WHERE type = "daily" AND day <= date(today)
+WHERE !complited
+GROUP BY day
+```
+
