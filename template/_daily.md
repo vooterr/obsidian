@@ -1,4 +1,3 @@
-#daily
 ---
 day: {{date:YYYY-MM-DD}}
 type: daily

@@ -25,9 +25,8 @@ SORT deadline ASC,
 # Задачи
 ```dataview
 TASK
-FROM ""
+FROM "temporary/daily"
 WHERE type = "daily" AND day <= date(today)
 WHERE !complited
 GROUP BY day
 ```
-

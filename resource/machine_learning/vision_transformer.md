@@ -1,7 +1,7 @@
 ---
-status: TODO
-date: 02.01.2026
+status: in-progress
+date: 2026-01-02
 priority: low
-deadline: 09.01.2026
+deadline: 2026-01-09
 ---
 #CV #ML
