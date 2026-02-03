@@ -30,3 +30,4 @@ WHERE type = "daily" AND day <= date(today)
 WHERE !complited
 GROUP BY day
 ```
+## Global plan
