@@ -31,3 +31,4 @@ WHERE !complited
 GROUP BY day
 ```
 ## Global plan
+[[plan_ml|План]]
