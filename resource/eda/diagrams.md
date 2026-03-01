@@ -1,5 +1,5 @@
 ---
-status: in-progress
+status: DONE
 date: 2026-02-21
 priority: medium
 deadline: 2026-02-22
@@ -14,7 +14,7 @@ tags: []
 ## ✅ Задачи
 
 ## 🔗 Связи
-- 
+- [[density]]
 ## Одномерный анализ
 ### Исчисляемые признаки
 #### Гистограмма
