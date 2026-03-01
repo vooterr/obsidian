@@ -1,3 +1,8 @@
+## Links
+- [[describing_map|Описание карт]]
+- [[describing_table|Описание таблиц]]
+- [[describing_pie_chart|Описание круговых диаграмм]]
+- [[describing_bar_chart|Описание ступенчатых диграмм]]
 ## Слова
 ### Для перефраза
 - **График показывает** - the data shows/demonstrates/displays/makes it clear that/reveals/provides data/infomation, illustrates, contains data
