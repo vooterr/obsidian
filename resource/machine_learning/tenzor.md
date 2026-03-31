@@ -1,5 +1,5 @@
 ---
-status: in-progress
+status: DONE
 date: 2026-01-24
 priority: high
 deadline: 2026-01-25

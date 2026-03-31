@@ -1,12 +1,12 @@
 ---
 status: in-progress
-date: 2026-03-21
-priority: medium
-deadline: 2026-03-22
+date: 2026-03-15
+priority: low
+deadline: 2026-03-20
 tags: []
 ---
 
-# gause_markov_term
+# AdaGrad
 
 ## 📝 Основное содержание
 

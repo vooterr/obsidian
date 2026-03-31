@@ -1,18 +1,18 @@
 ---
-status: TODO
-date: 2026-03-01
-priority: low
-deadline: 2026-03-06
+status: in-progress
+date: 2026-03-05
+priority: medium
+deadline: 2026-03-07
 tags: []
 ---
 
-# сurse of dimensionality
+# random_forest
 
 ## 📝 Основное содержание
-
 
 ## ✅ Задачи
 - [ ] 
 
 ## 🔗 Связи
 - 
+undefined
