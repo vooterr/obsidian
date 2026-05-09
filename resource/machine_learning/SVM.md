@@ -62,7 +62,7 @@ tags: []
 
 Максимизировать $\frac{2}{|w|}$ эквивалентно минимизации $\frac{1}{2}|w|^2$ (квадратная форма удобнее для оптимизации):
 
-$$\begin{cases} \dfrac{1}{2}|w|^2 \to \min_{w,,w_0} \[6pt] M_i(w, w_0) \geq 1, \quad i = 1, \dots, l \end{cases}$$
+$$\begin{cases} \dfrac{1}{2}|w|^2 \to \min_{w,w_0} M_i(w, w_0) \geq 1, \quad i = 1, \dots, l \end{cases}$$
 
 ---
 
