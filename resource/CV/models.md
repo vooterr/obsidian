@@ -1,4 +1,0 @@
-- FCOS
-- RepNet
-- WQuatNet
-- MobileNet
