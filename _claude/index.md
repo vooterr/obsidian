@@ -64,15 +64,17 @@
 
 ---
 
-## resource/CV/ (6 файлов)
+## resource/CV/ (8 файлов)
 
 | Файл | Тема |
 |------|------|
-| filtring.md | Фильтрация изображений |
-| image_convolution.md | Свёртка |
+| filtering.md | Фильтрация изображений |
+| image_convolution.md | Свёртка (каркас) |
 | image_correction.md | Коррекция изображений |
 | image_presentation.md | Представление изображений |
-| models.md | CV модели |
+| image-interpolation.md | Интерполяция |
+| image-quantisation.md | Квантование |
+| image-smapling.md | Сэмплирование |
 | noise_in_image.md | Шум в изображениях |
 
 **Пробелы:** ResNet/EfficientNet/ViT детально, YOLO, segmentation, mAP/IoU, GradCAM

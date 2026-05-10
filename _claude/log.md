@@ -24,4 +24,12 @@
 
 Добавлено X событий. См. детали в чате.
 
+## [2026-05-09] review | sparse-review | ~2-3ч (factual today) + backup-debt | BFS, DFS, heap; backup: GLM/GAM/Newton-Raphson/CV-filtring/decision-tree/MLE-move
+
+Diary отсутствует. Calendar учебных событий не имел. Git: 23+4 файла, 2 коммита.
+Реально написано сегодня: BFS, DFS, heap (algorithms).
+Остальное — backup апрельских конспектов (GLM, GAM, Newton-Raphson, filtring, decision_tree_heuristic, etc.).
+Notes Audit: image_convolution.md пустой; models.md заглушка; filtring.md имеет опечатку в имени и битую дату; decision_tree_heuristic обрывается; стандарт конспектов расходится с CLAUDE.md §5.
+См. _claude/review/2026-05-09.md.
+
 ## [2026-05-10] skip | Нет дневника
