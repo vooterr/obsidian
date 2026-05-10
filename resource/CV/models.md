@@ -1,3 +1,0 @@
-- FCOS
-- RepNet
-- WQuatNet
