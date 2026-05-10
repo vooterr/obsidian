@@ -1,3 +1,0 @@
-- JSON Schema mode - модель, которая может позволить выводить валидный json объект моделью 
-- [статья](https://medium.com/@damodharanjay/llm-based-structured-generation-using-jsonschema-139568c4f7c9)
-- еще [статья](https://medium.com/@damodharanjay/llm-based-structured-generation-using-jsonschema-139568c4f7c9) уже на гит хаб *посмотреть содержимое*
