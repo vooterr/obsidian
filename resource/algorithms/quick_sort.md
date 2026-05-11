@@ -12,7 +12,7 @@ tags: []
 
 
 ## ✅ Задачи
-- [ ] Изучить quick sort
+- [x] Изучить quick sort
 - [ ] Изучить разные partition
 
 ## 🔗 Связи

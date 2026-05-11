@@ -34,4 +34,10 @@ Diary отсутствует. Calendar учебных событий не име
 Notes Audit: image_convolution.md пустой; models.md заглушка; filtring.md имеет опечатку в имени и битую дату; decision_tree_heuristic обрывается; стандарт конспектов расходится с CLAUDE.md §5.
 См. _claude/review/2026-05-09.md.
 
-## [2026-05-10] skip | Нет дневника
+## [2026-05-10] review | sparse-review | ~3-4ч (calendar:0) | CV: представление/интерполяция/квантование/сэмплирование/фильтрация; Math: Gauss-Newton (детально), MLE (log-likelihood); algorithms: BFS/DFS/heap/quick_sort повтор
+
+Diary отсутствует. Calendar учебных событий не имел. Git: 4 коммита + uncommitted, ≥15 файлов в resource/.
+Реальная работа: большой CV-блок (image-interpolation, image-quantisation, image-smapling, image_presentation, filtering, image_convolution каркас); Newton-Gauss method доведён до ~130 строк; MLE дополнен.
+Vault-гигиена: TODO из 2026-05-09 выполнены (image_.md, models.md удалены; filtring→filtering).
+Notes Audit: критические ❌ в filtering.md (Гаусс без минуса, Bilateral), image_presentation.md (Rec.609, HSV формула, HSL обрыв), DFS.md (Back/Forward edge colors); 🔁 опечатка в имени image-smapling.md; image_convolution.md пуст (блокер для CV-цепочки).
+См. _claude/review/2026-05-10.md.
